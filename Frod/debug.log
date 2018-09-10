@@ -1,0 +1,1 @@
+[0909/100229.486:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\C6A6~1\AppData\Local\Temp\scoped_dir5020_22772\Crashpad\reports\47f69f0f-62fb-47b0-8022-f1b5438352ce.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
